@@ -1,0 +1,2 @@
+inline css > id>class, pseudo>>..>>html element
+(0A,0B,0C,0D)

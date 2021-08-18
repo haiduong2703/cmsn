@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.container{
+    width: 100%;
+    height: 100%;
+}
+.hearder{
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(#6CA5DC,#C79DD9);
+}
+body{
+    background-image: linear-gradient(rgb(240, 124, 15),white)
+}
+.top{
+    display: flex;
+}
+.img1{
+    width: 200px;
+    height: 200px;
+    border: 5px solid pink;
+    border-radius: 50%;
+    margin-top: 200px;
+    margin-left: 150px; 
+}
+.top p{
+    margin-top: 330px;
+    margin-left: 50px;
+    font-size: 50px;
+    color: rgba(6, 27, 97, 0.705);
+}
+.infor{
+    width: 100%;
+    height: 100px;
+    margin-top: 200px;
+}
+.infor p{
+    font-size: 25px;
+    margin-left: 50px;
+}
+.infor h2{
+    margin-left: 50px;
+}
+.leader{
+    margin-left: 40px;
+    display: flex;
+    margin-top: 20px;
+}
+.leader img{
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+    border-radius: 50%;
+    
+}
+.leader strong{
+    font-size: 25px;
+    margin-top: 50px;
+}
+.picture{
+    margin-top: 700px;
+    margin-left: 50px;
+}
+.picture strong{
+    font-size: 30px;
+    color: rgba(27, 5, 105, 0.795);
+}
+.picture_1 img{
+    width: 30%;
+    height: 20%;
+    margin-top: 10px;
+}
+.loichuc strong{
+    color: cornflowerblue;
+    font-size: 40px;
+    margin-left: 50px;
+}
+.button{
+    margin-left: 580px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    background-color: pink;
+    font-size: 20px;
+    color:teal;
+}
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: teal;
+    text-align: center;
+    color: rgba(219, 12, 57, 0.705);
+    font-size: 50px;
+}

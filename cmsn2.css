@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.img1{
+    display: flex;
+    
+}
+.img1 marquee{
+    margin-top: 50px;
+    margin-left: 120px;
+    margin-right: 120px;
+    font-size: 60px;
+    font-weight:bold;
+    color: teal;
+}
+.img1 img{
+    width: 250px;
+    height: 250px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.tim{
+    margin-top: -100px;
+    margin-left: 600px;
+    height: 100px;
+    width: 100px;
+    opacity:0.7;
+}
+.img{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    opacity: 0.7;
+}
+.tamthu button{
+    width: 150px;
+    height: 50px;
+    background-color: palevioletred;
+    text-align: center;
+    margin-top: 12px;
+    margin-left: 600px;
+}
+.tamthu button a{
+    color: rgb(255, 38, 0);
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
